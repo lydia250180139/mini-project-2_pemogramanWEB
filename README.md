@@ -11,6 +11,7 @@ Website ini membantu pengguna dalam melihat, menambahkan, mengubah, dan menghapu
 Kategori produk yang digunakan dalam sistem ini adalah:
 - Laptop
 - iPad
+- Aksesoris
 
 ## Fitur
 
@@ -53,3 +54,6 @@ mini project 2_pemogramanWEB/
     ├── edit.php
     ├── delete.php
     └── style.css
+
+## Nama Project
+StockElectro
